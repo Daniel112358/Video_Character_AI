@@ -11,7 +11,7 @@ from starlette.staticfiles import StaticFiles
 from starlette.templating import Jinja2Templates
 from starlette.routing import Route
 
-export_file_url = 'https://drive.google.com/file/d/1M6VJYx6R3MVdGjSPW0H93BO2ncA0PVkZ/view'
+export_file_url = 'https://drive.google.com/uc?id=1M6VJYx6R3MVdGjSPW0H93BO2ncA0PVkZ&export=download'
 export_file_name = 'export.pkl'
 
 classes = ['Mario', 'Luigi', 'Peach', 'Bowser']
